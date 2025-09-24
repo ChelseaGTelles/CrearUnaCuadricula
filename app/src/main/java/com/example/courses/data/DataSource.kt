@@ -40,7 +40,7 @@ object DataSource {
         Topic(R.string.law, 58, R.drawable.law),
         Topic(R.string.lifestyle, 305, R.drawable.lifestyle),
         Topic(R.string.music, 212, R.drawable.music),
-        Topic(R.string.painting, 172, R.drawable.paintin),
+        Topic(R.string.painting, 172, R.drawable.painting),
         Topic(R.string.photography, 321, R.drawable.photography),
         Topic(R.string.physics, 41, R.drawable.physics),
         Topic(R.string.tech, 118, R.drawable.tech),
